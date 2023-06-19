@@ -1,0 +1,59 @@
+D:\Plugins\TaxCodePlugin\bin\Debug\TaxCodePlugin.dll.config
+D:\Plugins\TaxCodePlugin\bin\Debug\TaxCodePlugin.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\TaxCodePlugin.pdb
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Buffers.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Memory.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Numerics.Vectors.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Text.Encodings.Web.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Text.Json.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\System.ValueTuple.dll
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Buffers.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Memory.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Numerics.Vectors.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Text.Encodings.Web.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Text.Json.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Plugins\TaxCodePlugin\bin\Debug\System.ValueTuple.xml
+D:\Plugins\TaxCodePlugin\obj\Debug\TaxCodePlugin.csproj.AssemblyReference.cache
+D:\Plugins\TaxCodePlugin\obj\Debug\TaxCodePlugin.csproj.CoreCompileInputs.cache
+D:\Plugins\TaxCodePlugin\obj\Debug\TaxCodePlugin.csproj.CopyComplete
+D:\Plugins\TaxCodePlugin\obj\Debug\TaxCodePlugin.dll
+D:\Plugins\TaxCodePlugin\obj\Debug\TaxCodePlugin.pdb
+D:\New folder\TaxCodePlugin\bin\Debug\TaxCodePlugin.dll.config
+D:\New folder\TaxCodePlugin\bin\Debug\TaxCodePlugin.dll
+D:\New folder\TaxCodePlugin\bin\Debug\TaxCodePlugin.pdb
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Buffers.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Memory.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Text.Encodings.Web.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Text.Json.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder\TaxCodePlugin\bin\Debug\System.ValueTuple.dll
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\New folder\TaxCodePlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Buffers.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Memory.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Text.Encodings.Web.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Text.Json.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\TaxCodePlugin\bin\Debug\System.ValueTuple.xml
+D:\New folder\TaxCodePlugin\obj\Debug\TaxCodePlugin.csproj.CoreCompileInputs.cache
+D:\New folder\TaxCodePlugin\obj\Debug\TaxCodePlugin.csproj.CopyComplete
+D:\New folder\TaxCodePlugin\obj\Debug\TaxCodePlugin.dll
+D:\New folder\TaxCodePlugin\obj\Debug\TaxCodePlugin.pdb
